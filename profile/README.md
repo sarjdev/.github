@@ -1,12 +1,23 @@
-## 👋
+🌿 Welcome to **[sarj.dev](https://sarj.dev/)**! This open-source project provides a back-end and fron-end solutions for an interactive map application focused on Electric Vehicle (EV) charging stations across Turkey. This project empowers EV owners to find, track, and plan their charging needs seamlessly.
 
-<!--
 
-**Here are some ideas to get you started:**
+#### Features
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🗺️ **Interactive Map:** Visualize electric vehicle charging stations on an interactive map.
+- ⚡ **Real-time Data:** Access up-to-date information about each charging station, including socket availability, power capacity, and pricing details.
+- 🔍 **Advanced Search:** Utilize the search feature to find charging stations based on specific criteria.
+- 📍 **Nearby Stations:** Get a list of charging stations near your location for convenient access.
+- 🔗 **Search Suggestions:** Receive search suggestions for quicker station discovery.
+
+#### License
+
+This project is licensed under the [GNU General Public License v3.0](https://github.com/sarjdev/back-end/blob/master/LICENSE)
+
+
+We would like to express our gratitude to the contributors of this project and the open-source community for their valuable contributions and support.
+
+#### Get in Touch
+
+For questions, suggestions, or collaborations, please contact us at [hi@sarj.dev](mailto:hi@sarj.dev) or visit our website at [https://sarj.dev](https://sarj.dev).
+
+🚀 Let's contribute to a greener future together! 🌍
