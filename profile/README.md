@@ -1,4 +1,4 @@
-🌿 Welcome to **[sarj.dev](https://sarj.dev/)**! This open-source project provides a back-end and fron-end solutions for an interactive map application focused on Electric Vehicle (EV) charging stations across Turkey. This project empowers EV owners to find, track, and plan their charging needs seamlessly.
+🌿 Welcome to **[sarj.dev](https://sarj.dev/)**! This open-source project provides a back-end and front-end solutions for an interactive map application focused on Electric Vehicle (EV) charging stations across Turkey. This project empowers EV owners to find, track, and plan their charging needs seamlessly.
 
 
 #### Features
